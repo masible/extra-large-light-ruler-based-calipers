@@ -30,7 +30,7 @@ module caliper_ext_bottom() {
         }
 
         color("Blue")
-        translate([-0.1, 7.5, 3.1])
+        translate([-0.1, 7.5, 3.75])
         rotate([0, 90, 0])
         cylinder(h=25, d=3.2, $fn=20);
     }
