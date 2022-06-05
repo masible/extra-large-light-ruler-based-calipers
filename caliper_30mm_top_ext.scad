@@ -2,7 +2,7 @@ difference() {
     union () {
         color("Green")
         translate([45.5, 2, 0])
-        import("caliper_30mm_top.stl");
+        import("original/caliper_30mm_top.stl");
 
         color("Red")
         cube([25, 8, 4.7]);
