@@ -10,6 +10,10 @@ end of the rods to avoid scratches from the bare metal.
 
 ![photo](images/photo.jpg)
 
+## STL models
+
+The STL models are available on [Printables.com](https://www.printables.com/model/220544-extra-large-and-light-ruler-based-calipers).
+
 ## License
 
 This is a re-re-remixed thing from, [Calipers attachment for a ruler, Snap fit remix](https://www.printables.com/model/160237-calipers-attachment-for-a-ruler-snap-fit-remix)
