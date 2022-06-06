@@ -4,9 +4,10 @@ Calipers made with flat metal rules are great, but what happens if you want
 measure something that's more than a couple of centimeters in depth, such as
 vases, pots and bottles. Well, you extend the heck out of it!
 
-Print one of each model, using supports for the extending rods' holes. Stick
-a 3mm rod of aluminium in each of the holes, and add a little Sugru at the
-end of the rods to avoid scratches from the bare metal.
+Print one of each model, using supports for the extending rods' holes. Insert a
+30mm wide ruler in both parts, and stick a 3mm rod of aluminium in each of the
+holes, and add a little Sugru at the end of the rods to avoid scratches from
+the bare metal.
 
 ![photo](images/photo.jpg)
 
