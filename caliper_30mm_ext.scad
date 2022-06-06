@@ -4,7 +4,7 @@ module caliper_ext_top() {
         union () {
             color("Green")
             translate([45.5, 2, 0])
-            import("original/caliper_30mm_top.stl");
+            import("original/caliper_30mm_top.stl", convexity=2);
 
             color("Red")
             cube([25, 8, 4.7]);
@@ -23,7 +23,7 @@ module caliper_ext_bottom() {
         union () {
             color("Green")
             translate([45.5, -9, 0])
-            import("original/caliper_30mm_bottom.stl");
+            import("original/caliper_30mm_bottom.stl", convexity=2);
 
             color("Red")
             cube([25, 9.5, 6.2]);
